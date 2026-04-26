@@ -32,7 +32,6 @@ Output: Predictions, Insights, Model Comparison
 * Supervised Learning
 * Classification & Regression Problems
 * Model Evaluation
-* Hyperparameter Tuning
 * Cross Validation
 * Model Comparison
 
@@ -86,8 +85,6 @@ Model Training
 Cross Validation
    ↓
 Model Evaluation
-   ↓
-Hyperparameter Tuning
    ↓
 Final Model
 ```
